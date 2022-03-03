@@ -1,0 +1,11 @@
+name: qp 
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt
+prefix: /home/rezwan/anaconda3/envs/qp
