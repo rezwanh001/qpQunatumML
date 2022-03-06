@@ -26,6 +26,11 @@ Gnome       : 3.36.8
 OR use conda-
 * **conda**: use environment.yml: ```conda env create -f environment.yml```
 
+**LaTex Utils Install**
+
+```sudo apt install texlive-latex-base```
+
+```sudo apt-get install texlive-latex-extra```
 
 # Execution
 - ```conda activate your_env```
